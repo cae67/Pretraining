@@ -2,20 +2,21 @@
 
 ## Data Preprocessing Code:
 
-**mdd_preprocessing.py** - used to preprocessing MDD data
+**sleep_preprocessing.m** - MATLAB script used to preprocess sleep data
+**mdd_preprocessing.py** - Python used to preprocessing MDD data
 
 ## Model Training Code:
 
-**sleep_train_conference_final.py** - contains the code for training the Model S sleep models that were later used in mdd_pretrained_conference_final.py
+**sleep_train.py** - Python script for training the Model S sleep models that were later used in mdd_pretrained.py
 
-**mdd_pretrain_conference_final.py** - contains the code for training MDD Models A through D
+**mdd_pretrain.py** - Python script for training MDD Models A through D
 
 ## Performance Analysis Code:
 
-**mdd_pretrain_performance_analysis_conference_final.ipynb** - used to perform statistical analysis comparing MDD models performance
+**mdd_pretrain_performance_analysis.ipynb** - Jupyter Notebook for performing statistical analysis comparing MDD models performance
 
 ## Explainability Code:
 
-**mdd_pretrain_explainability_conference_final.py** - used to generate spatial and spectral explanations for MDD Models A through D
+**mdd_pretrain_explainability.py** - Python script used to generate spatial and spectral explanations for MDD Models A through D
 
-**mdd_pretrain_visualize_explainability_conference_final.ipynb** - used to visualize spatial and spectral explainability results
+**mdd_pretrain_visualize_explainability.ipynb** - Jupyter Notebook used to visualize spatial and spectral explainability results
