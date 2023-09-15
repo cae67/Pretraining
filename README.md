@@ -1,5 +1,13 @@
 # Pretraining
 
+## Data Location:
+
+**Sleep EDF Expanded Dataset (We used Sleep Cassette Data):** 
+https://www.physionet.org/content/sleep-edfx/1.0.0/
+
+**MDD Dataset:**
+https://figshare.com/articles/dataset/EEG_Data_New/4244171
+
 ## Data Preprocessing Code:
 
 **sleep_preprocessing.m** - MATLAB script used to preprocess sleep data
