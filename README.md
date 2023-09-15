@@ -6,6 +6,10 @@ sleep_train_conference_final.py - contains the code for training the Model S sle
 
 mdd_pretrain_conference_final.py - contains the code for training MDD Models A through D
 
+## Performance Analysis Code:
+
+mdd_pretrain_performance_analysis_conference_final.ipynb - used to perform statistical analysis comparing MDD models performance
+
 ## Explainability Code:
 mdd_pretrain_explainability_conference_final.py - used to generate spatial and spectral explanations for MDD Models A through D
 
