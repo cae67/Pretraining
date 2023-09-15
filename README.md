@@ -28,3 +28,7 @@ https://figshare.com/articles/dataset/EEG_Data_New/4244171
 **mdd_pretrain_explainability.py** - Python script used to generate spatial and spectral explanations for MDD Models A through D
 
 **mdd_pretrain_visualize_explainability.ipynb** - Jupyter Notebook used to visualize spatial and spectral explainability results
+
+## Pretrained Sleep Models:
+
+Pretrained sleep models are found in **Sleep_Models** folder. They can be loaded using the code in **mdd_pretrain.py**
