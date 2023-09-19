@@ -8,6 +8,9 @@ https://www.physionet.org/content/sleep-edfx/1.0.0/
 **MDD Dataset:**
 https://figshare.com/articles/dataset/EEG_Data_New/4244171
 
+## Python Environment Setup:
+Required Python packages are found in **Packages** folder.
+
 ## Data Preprocessing Code:
 
 **sleep_preprocessing.m** - MATLAB script used to preprocess sleep data
